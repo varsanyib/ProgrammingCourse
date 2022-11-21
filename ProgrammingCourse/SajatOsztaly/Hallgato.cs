@@ -47,7 +47,7 @@ namespace ProgrammingCourse.SajatOsztaly
 
             OsszPont = EredmenyArch + EredmenyMest + EredmenyGraf + EredmenyProg;
 
-            Atlag = (EredmenyProg + EredmenyGraf + EredmenyArch + EredmenyMest) / 4;
+            Atlag = OsszPont / 4;
 
         }
 
